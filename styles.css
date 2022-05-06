@@ -1,0 +1,93 @@
+
+.title0{
+    width: 300px;
+    font-size: 50px;
+    text-align: center;
+    height: 0px;
+    margin-left: 42%
+}
+
+.title1{
+    width: 300px;
+    font-size: 30px;
+    text-align: center;
+    margin-left: 42%;
+    color: blueviolet;
+}
+
+.note{
+    width: 300px;
+    font-size: 25px;
+    margin-left: 20%;
+}
+
+.textspace{
+    width: 1000px;
+    height: 200px;
+    text-align: left;
+    position: absolute;
+    margin-left: 23%;
+    margin-top: -2%;
+}
+
+.button0{
+    width: 100px;
+    height: 50px;
+    background-color: blue;
+    color: white;
+    border-color: white;
+    position: absolute;
+    margin-left: 47%;
+    margin-top: 14%;
+}
+
+
+.notes{
+    width: 890px;
+    height: 200px;
+    border: 1px black solid;
+    text-align: left;
+    margin-left: 26%;
+    margin-bottom: 5%;
+    overflow: hidden;
+}
+.notespace{
+    margin-top: 20%;
+}
+
+.button1{
+    width: 100px;
+    height: 50px;
+    background-color: green;
+    color: white;
+    border-color: white;
+    position: relative;
+    left: 491px;
+    top :-145px;
+}
+
+.body{
+
+   background-color: lightgray;
+}
+
+.hover{
+    width: 1600px;
+    height:600px;
+    background-color: white;
+    position: fixed;
+    top:15%;
+    left:8%;
+    right:8%;
+}
+
+.button2{
+    width: 100px;
+    height: 50px;
+    background-color: red;
+    color: white;
+    border-color: white;
+    position: fixed;
+    top: 140px;
+    left: 1650px;
+}
